@@ -1,0 +1,64 @@
+{
+	"extensions":
+	[
+		"md"
+	],
+
+	"spell_check": true,
+
+	"color_scheme": "Packages/User/SublimeLinter/predawn-gf-markdown (SL).tmTheme",
+
+	"line_numbers": false,
+	"highlight_line": false,
+	"mde.match_header_hashes": false,
+
+	// Layout
+	"draw_centered": true,
+	"word_wrap": true,
+	"wrap_width": 95,
+	"rulers": [],
+	"scroll_past_end": true,
+	
+	// "tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false,
+
+	"remove_trailing_whitespace_on_save": false,
+	// "auto_match_enabled": true,
+
+	// // Layout
+	// "draw_centered": true,
+	// "word_wrap": true,
+	// "wrap_width": 80,
+	// "rulers": [],
+
+	// // Line
+	// "line_numbers": false,
+	// "highlight_line": false,
+	// "line_padding_top": 2,
+	// "line_padding_bottom": 2,
+
+	// // Caret
+	// "caret_style": "wide",
+	// "caret_extra_top": 3,
+	// "caret_extra_bottom": 3,
+
+	// // add trailing #'s to headlines
+	// "mde.match_header_hashes": false,
+
+	// // Automatically switches list bullet when indenting blank list item with <Tab>.
+	// "mde.list_indent_auto_switch_bullet": true,
+
+	// // List bullets to be used for automatically switching. In their order.
+	// "mde.list_indent_bullets": ["*", "-", "+"],
+
+	// // Allways keep current line vertically centered.
+	// "mde.keep_centered": false,
+
+	// // Distraction free mode improvements. In order these to work, you have to install
+	// // FullScreenStatus plugin: https://github.com/maliayas/SublimeText_FullScreenStatus
+	// "mde.distraction_free_mode": {
+	// 	"mde.keep_centered": true
+	// }
+
+}

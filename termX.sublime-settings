@@ -1,0 +1,7 @@
+{
+    "terminal" : "iterm",
+    // "terminal" : "iterm-nightly",
+    "osascript" : "/usr/bin/osascript",
+    "debug" : false,
+    "directory_mode" : "project" // Can be "project"
+}

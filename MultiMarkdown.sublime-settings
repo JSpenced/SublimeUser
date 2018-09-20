@@ -1,0 +1,15 @@
+{
+	// "color_scheme": "Packages/User/SublimeLinter/predawn-gf-markdown (SL).tmTheme",
+	"spell_check": true,
+
+	"line_numbers": true,
+	"highlight_line": true,
+
+	// Layout
+	"draw_centered": true,
+	"word_wrap": true,
+	"wrap_width": 100,
+	"rulers": [],
+	"trim_trailing_white_space_on_save": false,
+	"remove_trailing_whitespace_on_save": false,
+}

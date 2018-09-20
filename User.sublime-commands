@@ -1,0 +1,18 @@
+[
+{"caption": "Selection: Expand to Sentence", "command": "expand_selection_to_sentence"},
+{"caption": "Line Number: Toggle", "command": "toggle_setting", "args": {"setting":
+"line_numbers"}},
+{"caption": "Word Wrap: Width Window", "command": "set_setting", "args": {"setting": "wrap_width", "value": 0}},
+{"caption": "Word Wrap: Width Z 95", "command": "set_setting", "args": {"setting": "wrap_width", "value": 95}},
+{"caption": "View: Toggle Line Number", "command": "toggle_setting", "args": {"setting":
+"line_numbers"}},
+{"caption": "View: Toggle Draw Centered", "command": "toggle_setting", "args": {"setting":
+"draw_centered"}},
+{"caption": "View: Toggle Draw Centered", "command": "toggle_setting", "args": {"setting":
+"draw_centered"}},
+// {"caption": "MacTerminal: Open Mac Terminal", "command": "open_mac_terminal"},
+{"caption": "Toggle Ovewrite", "command": "toggle_overwrite"},
+{"caption": "Add Date Stamp", "command": "add_date_stamp" },
+// {"keys": ["super+alt+d"], "command": "add_date_time_stamp" },
+// {"keys": ["super+alt+t"], "command": "add_time_stamp" }
+]

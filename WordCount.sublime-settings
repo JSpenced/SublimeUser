@@ -1,0 +1,35 @@
+{
+	"whitelist_syntaxes": [],
+	"blacklist_syntaxes": ["CSS", "SQL", "JavaScript", "Python", "PHP", "JSON"],
+	"enable_live_count": false,
+
+	"enable_readtime": false,
+	"readtime_wpm": 200,
+	"char_ignore_whitespace": true,
+
+	"enable_line_word_count": false,
+	"enable_line_char_count": false,
+
+	"enable_count_chars": false,
+	"enable_count_lines": false,
+
+	"enable_count_pages": true,
+	"words_per_page": 300,
+	"page_count_mode_count_words": true,
+
+	/* please use lowercase for the syntax names in the following section: */
+	"strip": {
+		"php": [
+			"<[^>]*>"
+		],
+		"html": [
+			"<[^>]*>"
+		],
+		// Need to check Latex Word Count to implement properly
+		// "tex": [
+		// 	"$$.*?$$",
+		// 	"$.*?$",
+		// ]
+	}
+
+}

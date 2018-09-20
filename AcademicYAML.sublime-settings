@@ -1,0 +1,12 @@
+{
+	// "color_scheme": "Packages/User/SublimeLinter/predawn-gf-markdown (SL).tmTheme",
+
+	"line_numbers": true,
+	"highlight_line": false,
+
+	// Layout
+	"draw_centered": true,
+	"word_wrap": true,
+	"wrap_width": 100,
+	"rulers": [],
+}

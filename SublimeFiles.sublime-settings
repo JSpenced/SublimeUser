@@ -1,0 +1,4 @@
+{
+	"term_command": "open -a iTerm",
+  "ignore_list": ["*.pyc", "*.class", "*.o"],
+}

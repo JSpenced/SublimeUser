@@ -1,0 +1,10 @@
+// AutoSave's default settings.
+
+{
+  "auto_save_on_modified": false,
+  "auto_save_delay_in_seconds": 2,
+  "auto_save_all_files": false,
+  "auto_save_current_file": "",
+  "auto_save_backup": true,
+  "auto_save_backup_suffix": "auto--save"
+}

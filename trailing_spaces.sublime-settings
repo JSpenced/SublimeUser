@@ -1,0 +1,11 @@
+{
+  "trailing_spaces_trim_on_save": true,
+	"trailing_spaces_highlight_color": "",
+  "trailing_spaces_save_after_trim": true,
+  "trailing_spaces_modified_lines_only": true,
+  "trailing_spaces_enabled": false,
+	"trailing_spaces_include_current_line": false,
+  // Not working need to get working
+  "trailing_spaces_syntax_ignore": ["Diff","AcademicMarkdown"]
+  // ,"dired","Markdown","*.md","AcademicMarkdown","Markdown (Standard)"],
+}

@@ -1,0 +1,1020 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "kdkd",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "kdkd"
+			},
+			"key": "bd3df139a836391b1e0b2931edf9bb4b",
+			"label": "kdkd"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "compare activation"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find compare activation"
+			},
+			"key": "8c515da12611fc236cc41379c7e4de6e",
+			"label": "find compare activation"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": " "
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter  "
+			},
+			"key": "c7a29ce33aecbdb38f3b407d6fde303c",
+			"label": "filter  "
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "[ ]"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter [ ]"
+			},
+			"key": "55481beb6772f0d94de18f3df1fca46b",
+			"label": "filter [ ]"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "'[ ]'"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find '[ ]'"
+			},
+			"key": "e44f4a5798ef44ef803d1a668ceea9c8",
+			"label": "find '[ ]'"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "#"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find #"
+			},
+			"key": "7d4c898c6871ed88d44d8568781e19a2",
+			"label": "find #"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\i(100,100)"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i(100,100)"
+			},
+			"key": "ae1cfca342793118f1dfe6c4ff938105",
+			"label": "\\i(100,100)"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 100 -10"
+				},
+				"command": "text_pastry_step",
+				"text": "1 100 -10"
+			},
+			"key": "6224add3d7d699300142691ce19665a0",
+			"label": "1 100 -10"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "200 10 -5"
+				},
+				"command": "text_pastry_step",
+				"text": "200 10 -5"
+			},
+			"key": "cab5b96bce4c00c3bf47329b2dfae9ee",
+			"label": "200 10 -5"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "200 10 5"
+				},
+				"command": "text_pastry_step",
+				"text": "200 10 5"
+			},
+			"key": "4b73b27ab17d737695b9b08225175e4f",
+			"label": "200 10 5"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"repeat": "3",
+					"text": ""
+				},
+				"command": "text_pastry_date_range",
+				"text": "days x3"
+			},
+			"key": "5e2482221a845152c4a5173fb15d717b",
+			"label": "days x3"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"step_size": "week",
+					"text": ""
+				},
+				"command": "text_pastry_date_range",
+				"text": "weeks"
+			},
+			"key": "ae60f11ab51860bdb22794a943335a34",
+			"label": "weeks"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 x10"
+				},
+				"command": "text_pastry_step",
+				"text": "1 x10"
+			},
+			"key": "3cb7083dccafe87ffa848b42e1004490",
+			"label": "1 x10"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\i(1000,100) x10"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i(1000,100) x10"
+			},
+			"key": "f57281425cfae23a2988f431d2b56a0f",
+			"label": "\\i(1000,100) x10"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\i(1000,200) x2"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i(1000,200) x2"
+			},
+			"key": "b0c3b44007fc3f427926f507d7cc9215",
+			"label": "\\i(1000,200) x2"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"repeat": "5",
+					"step_size": "100",
+					"text": "row-20"
+				},
+				"command": "text_pastry_auto_step",
+				"text": "as row-20 100 x5"
+			},
+			"key": "df64172709cd9d1f061efa98ba44dc84",
+			"label": "as row-20 100 x5"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "ctrl+c"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter ctrl+c"
+			},
+			"key": "e41b8099b46103fc7fef2d2757bdd57a",
+			"label": "filter ctrl+c"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "name=\"ctrl+c\""
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter name=\"ctrl+c\""
+			},
+			"key": "9f24d4e67092384bd9453a5a3eb1dc66",
+			"label": "filter name=\"ctrl+c\""
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": "subtract",
+					"pattern": "\\s+"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "reduce \\s+"
+			},
+			"key": "ec7ea496a5e90032231c6c041bf80573",
+			"label": "reduce \\s+"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": "subtract",
+					"pattern": "\\w+"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "reduce \\w+"
+			},
+			"key": "1df255cb114c378f946930d069391311",
+			"label": "reduce \\w+"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "name=\"(.command?)\""
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find name=\"(.command?)\""
+			},
+			"key": "bdaf50cd86c313a7dee730d5c7364643",
+			"label": "find name=\"(.command?)\""
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "name=\"(,*?)\""
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find name=\"(,*?)\""
+			},
+			"key": "659de5a36e20c0ca112ca0f0dda4feb3",
+			"label": "find name=\"(,*?)\""
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "\"(.*?)\""
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter \"(.*?)\""
+			},
+			"key": "1b6d0814171a69c42c8b3732fe7c6ca3",
+			"label": "filter \"(.*?)\""
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "\"command\""
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter \"command\""
+			},
+			"key": "14afdc377e5e25fc83f8cd1d112d4419",
+			"label": "filter \"command\""
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "\\\"command\\\""
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter \\\"command\\\""
+			},
+			"key": "76690c4fc0f8439f1ea6d5290a40366e",
+			"label": "filter \\\"command\\\""
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "(\\#\\#\\W)"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter (\\#\\#\\W)"
+			},
+			"key": "1543ffb2d719cac79086d022a946f7d7",
+			"label": "filter (\\#\\#\\W)"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "\\#{2,}"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter \\#{2,}"
+			},
+			"key": "1453b31794783ae77d93c15ee840f4ee",
+			"label": "filter \\#{2,}"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "\\*{2,}"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter \\*{2,}"
+			},
+			"key": "0f9a4ffb707610f4858c421ce827ef40",
+			"label": "filter \\*{2,}"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "\\*{4,5}"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter \\*{4,5}"
+			},
+			"key": "e07b80ac5fa5a2c70d7de58296da2560",
+			"label": "filter \\*{4,5}"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "\\*{4,4}"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter \\*{4,4}"
+			},
+			"key": "0f09df6c5cae45ef0b08ce8e02bb75b7",
+			"label": "filter \\*{4,4}"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "\\*{4,4}\\ "
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter \\*{4,4}\\ "
+			},
+			"key": "820111e55fa6aa8fa3e6293357c1fe98",
+			"label": "filter \\*{4,4}\\ "
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "\\*^{4,4}\\ "
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter \\*^{4,4}\\ "
+			},
+			"key": "da8e56caeda8f5693c0222be6d737ce1",
+			"label": "filter \\*^{4,4}\\ "
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "^\\*{4,4}\\ "
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter ^\\*{4,4}\\ "
+			},
+			"key": "0af447a8e7e65701a5384fbff9df8307",
+			"label": "filter ^\\*{4,4}\\ "
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "\\*{4} "
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter \\*{4} "
+			},
+			"key": "9054084ae09a9f6621091fe14bbcfb25",
+			"label": "filter \\*{4} "
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "\\n\\*{4}"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter \\n\\*{4}"
+			},
+			"key": "dd183b8ea8c9172f973bce8e005363c4",
+			"label": "filter \\n\\*{4}"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "\\n\\*{4}\\s"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter \\n\\*{4}\\s"
+			},
+			"key": "4d1e2ef1ef269699207b5c341308c2c5",
+			"label": "filter \\n\\*{4}\\s"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "\\s\\D"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter \\s\\D"
+			},
+			"key": "d90fd78b498728dd3566d1fd5a01c6fc",
+			"label": "filter \\s\\D"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "\\b\\d"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter \\b\\d"
+			},
+			"key": "a47674c1c863f9d25bd90641c6430e55",
+			"label": "filter \\b\\d"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "\\b\\d(\\d|\\s)"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter \\b\\d(\\d|\\s)"
+			},
+			"key": "ccb4e9fc3f77a9fad03062f1b7292b3d",
+			"label": "filter \\b\\d(\\d|\\s)"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "\\!"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter \\!"
+			},
+			"key": "1764ec3d5d9bb7b7f98c6f9ee4efed28",
+			"label": "filter \\!"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "0.37"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter 0.37"
+			},
+			"key": "da037a0a78c65dcb83336bc6334ce19a",
+			"label": "filter 0.37"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "8 1"
+				},
+				"command": "text_pastry_step",
+				"text": "8 1"
+			},
+			"key": "412547bfc8f1888e3974ac586bd46fb1",
+			"label": "8 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "16 1"
+				},
+				"command": "text_pastry_step",
+				"text": "16 1"
+			},
+			"key": "01bb8e125296805ff8d9d526100ac994",
+			"label": "16 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "120 1"
+				},
+				"command": "text_pastry_step",
+				"text": "120 1"
+			},
+			"key": "3477bbd9f7ef1ec74f0676ab682361f3",
+			"label": "120 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "520 1"
+				},
+				"command": "text_pastry_step",
+				"text": "520 1"
+			},
+			"key": "58586e004088be1b3fec7518f935c6e6",
+			"label": "520 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "bi_c"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find bi_c"
+			},
+			"key": "d37610a503d6699680d70ae8ded461be",
+			"label": "find bi_c"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "5 1"
+				},
+				"command": "text_pastry_step",
+				"text": "5 1"
+			},
+			"key": "1dc1130fc812821d8e4d291e52278263",
+			"label": "5 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 1"
+				},
+				"command": "text_pastry_step",
+				"text": "1 1"
+			},
+			"key": "75c124fae7a8b8b89183d4de196613b3",
+			"label": "1 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 200 4"
+				},
+				"command": "text_pastry_step",
+				"text": "1 200 4"
+			},
+			"key": "24caf115075381faff3cebce01d4fa21",
+			"label": "1 200 4"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 22 4"
+				},
+				"command": "text_pastry_step",
+				"text": "1 22 4"
+			},
+			"key": "578f467901fbcef771c67b6fa18ec9ce",
+			"label": "1 22 4"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 4"
+				},
+				"command": "text_pastry_step",
+				"text": "1 4"
+			},
+			"key": "6f56517a024c64526d52b0cfdf038dfa",
+			"label": "1 4"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "2 4"
+				},
+				"command": "text_pastry_step",
+				"text": "2 4"
+			},
+			"key": "b322f0d1923c0a1753e155afa81233ff",
+			"label": "2 4"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "3 4"
+				},
+				"command": "text_pastry_step",
+				"text": "3 4"
+			},
+			"key": "2157cc37775c0e65b468c9dd7e7b0b20",
+			"label": "3 4"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "4 4"
+				},
+				"command": "text_pastry_step",
+				"text": "4 4"
+			},
+			"key": "0cae2224af68a62e3982b80c5087c1dd",
+			"label": "4 4"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "2 3"
+				},
+				"command": "text_pastry_step",
+				"text": "2 3"
+			},
+			"key": "a2d9b33304a1222854cafaf96187e00d",
+			"label": "2 3"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "3 3"
+				},
+				"command": "text_pastry_step",
+				"text": "3 3"
+			},
+			"key": "9c905217e641c13152312788378e4b5f",
+			"label": "3 3"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 3"
+				},
+				"command": "text_pastry_step",
+				"text": "1 3"
+			},
+			"key": "c91c741873ed32f60906917ad6278821",
+			"label": "1 3"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "14"
+				},
+				"command": "text_pastry_step",
+				"text": "14"
+			},
+			"key": "aab3238922bcc25a6f606eb525ffdc56",
+			"label": "14"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "7"
+				},
+				"command": "text_pastry_step",
+				"text": "7"
+			},
+			"key": "8f14e45fceea167a5a36dedd4bea2543",
+			"label": "7"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "13"
+				},
+				"command": "text_pastry_step",
+				"text": "13"
+			},
+			"key": "c51ce410c124a10e0db5e4b97fc2af39",
+			"label": "13"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "8 14 1"
+				},
+				"command": "text_pastry_step",
+				"text": "8 14 1"
+			},
+			"key": "0dc0389d93b2b18987723c55ebf0b778",
+			"label": "8 14 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "8"
+				},
+				"command": "text_pastry_step",
+				"text": "8"
+			},
+			"key": "c9f0f895fb98ab9159f51fd0297e236d",
+			"label": "8"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "15"
+				},
+				"command": "text_pastry_step",
+				"text": "15"
+			},
+			"key": "9bf31c7ff062936a96d3c8bd1f8f2ff3",
+			"label": "15"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
+				"text": "1"
+			},
+			"key": "c4ca4238a0b923820dcc509a6f75849b",
+			"label": "1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"start": "5",
+					"stop": "7"
+				},
+				"command": "text_pastry_range",
+				"text": "range 5 7"
+			},
+			"key": "97727861d381936cbbb70d24dcb2a2ad",
+			"label": "range 5 7"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "0 10"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter 0 10"
+			},
+			"key": "f150f47dbf27915db8e9bb19b2994ec2",
+			"label": "filter 0 10"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "0 10 1"
+				},
+				"command": "text_pastry_step",
+				"text": "0 10 1"
+			},
+			"key": "313474f7714a991e38240c7e7eeb00b6",
+			"label": "0 10 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "6 1"
+				},
+				"command": "text_pastry_step",
+				"text": "6 1"
+			},
+			"key": "e9153d0fab3a021e3aec90fecff30bdd",
+			"label": "6 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "0 1"
+				},
+				"command": "text_pastry_step",
+				"text": "0 1"
+			},
+			"key": "27a3f1a3d555387ab7bf589ca716c295",
+			"label": "0 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "100 1"
+				},
+				"command": "text_pastry_step",
+				"text": "100 1"
+			},
+			"key": "f3859230d680547d1784cc2e6cb50bd0",
+			"label": "100 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "2 1"
+				},
+				"command": "text_pastry_step",
+				"text": "2 1"
+			},
+			"key": "e5f496776d0be90c523ffd4a458d7179",
+			"label": "2 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "0"
+				},
+				"command": "text_pastry_step",
+				"text": "0"
+			},
+			"key": "cfcd208495d565ef66e7dff9f98764da",
+			"label": "0"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": "0"
+		},
+		"command": "text_pastry_step",
+		"text": "0"
+	}
+}

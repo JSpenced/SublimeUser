@@ -1,0 +1,26 @@
+{
+  "root": "~/Dropbox/Notes/",
+  "archive_dir": ".archive",
+  "jotter_color_scheme": "Packages/PlainNotes/Color Schemes/Sticky-Yellow.tmTheme",
+  "jotter_date_format" :"%d %b %Y",
+  "jotter_time_format": "%I:%M %p",
+  "note_save_extension": "note",
+  "note_file_extensions": ["note"],
+  "enable_yaml": false,
+  "note_yaml" : ["tags"],
+  "tab_size": 2,
+  // "draw_indent_guides": false,
+  // "line_numbers": false,
+  // "gutter": true,
+  // "margin": 2,
+  // "translate_tabs_to_spaces": true,
+  // "use_tab_stops": false,
+  // "match_brackets": false,
+  // "fold_buttons": true,
+  // "fade_fold_buttons": false,
+  "list_options" : {
+    "display_modified_date": false,
+    "display_folder": false,
+    "display_full_path": false
+  }
+}

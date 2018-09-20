@@ -1,0 +1,20 @@
+{
+	"anaconda_linting": false,
+	"python_interpreter": "~/anaconda/envs/py2k/bin/python",
+    "auto_python_builder_enabled": false,
+    "validate_imports": true,
+	"extra_paths":
+    [
+        "~/Dropbox/Research/Code/Model",
+        "~/anaconda/envs/py2k/bin"
+    ],
+    "build_systems":
+    [
+        {
+            "name": "Anaconda Python Builder 2",
+            "selector": "source.python",
+            "extra_paths": "~/Dropbox/Research/Code/Model",
+            "shell_cmd": "~/anaconda/envs/py2k/bin/python -u \"$file\""
+        }
+    ],
+}

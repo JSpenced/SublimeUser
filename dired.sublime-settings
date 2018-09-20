@@ -1,0 +1,72 @@
+{
+	"__vi_external_disable": true,
+	"caret_extra_width": 0,
+	"color_scheme": "Packages/FileBrowser/dired.hidden-tmTheme",
+	"dired_autorefresh": true,
+	"dired_confirm_send2trash": true,
+	"dired_dup_separator": "—",
+	"dired_header": true,
+	"dired_hidden_files_patterns":
+	[
+		".*",
+		"__pycache__",
+		"*.pyc",
+		"*.aux",
+		"*.mtc*",
+		"*.bbl",
+		"*.blg",
+		"*.maf",
+		"*.brf",
+		"*.fls",
+		"*.maf",
+		"*.toc",
+		"*.fdb_latexmk",
+		"*.synctex.gz",
+		"*.lof",
+		"*.dvi"
+	],
+	"dired_hijack_new_window": false,
+	"dired_jump_points":
+	{
+		"Downloads": "/Users/bigtyme/Downloads/",
+		"Drop Programs": "/Users/bigtyme/Dropbox/Programs/",
+		"Export Pictures": "/Users/bigtyme/Pictures/ExportPics/",
+		"Korea Dele": "/Users/bigtyme/Documents/To_Delete/K/",
+		"SublPackages": "/Users/bigtyme/Library/Application Support/Sublime Text 3/Packages/",
+		"SublUser": "/Users/bigtyme/Library/Application Support/Sublime Text 3/Packages/User/",
+		"Todo.txt": "/Users/bigtyme/Dropbox/Apps/Simpletask/",
+		"Torrents": "/Users/bigtyme/Downloads/FinishedTor/",
+		"Volumes": "/Volumes/"
+	},
+	"dired_open_on_jump": "left",
+	"dired_reuse_view": true,
+	"dired_show_full_path": false,
+	"dired_show_hidden_files": false,
+	"dired_show_parent": true,
+	"dired_smart_jump": false,
+	"dired_to_copy":
+	[
+	],
+	"dired_to_move":
+	[
+	],
+	"dired_width": 123,
+	"drag_text": false,
+	"draw_indent_guides": false,
+	"fold_buttons": false,
+	"font_size": 10,
+	"git_path": "git",
+	"hg_path": "hg",
+	"highlight_line": true,
+	"line_numbers": false,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"margin": -19,
+	"rulers":
+	[
+	],
+	"scroll_past_end": false,
+	"spell_check": false,
+	"tab_size": 2,
+	"word_wrap": false
+}

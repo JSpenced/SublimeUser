@@ -1,0 +1,31 @@
+{
+	"spell_check": true,
+	"remove_trailing_whitespace_on_save": true,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"caret_style": "wide",
+	"caret_extra_top": 3,
+	"caret_extra_bottom": 3,
+	"color_scheme": "Packages/User/SublimeLinter/Flatland Monokai LaTeX (SL).tmTheme",
+
+	// "font_face": "Consolas"
+
+	"draw_centered": true,
+	"word_wrap": true,
+	"wrap_width": 95,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"detect_indentation": true,
+	"use_tab_stops": true,
+// "translate_tabs_to_spaces": true,
+
+	"line_numbers": false,
+	"highlight_line": false,
+	"scroll_past_end": true,
+
+	"alignment_chars": ["="],
+	"alignment_prefix_chars": [
+    "+", "-", "&", "|", "<", ">", "!", "~", "%", "/", "*", ".", "\\"
+  ],
+
+}

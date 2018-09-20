@@ -1,0 +1,38 @@
+{
+	"draw_centered": true,
+	"word_wrap": true,
+	"wrap_width": 95,
+	"patterns": {
+    "CRIT": "CRIT[\\s]*?:[\\s]*(?P<crit>.*)$",
+    "IMPO": "IMPO[\\s]*?:[\\s]*(?P<impo>.*)$",
+    "FIXME": "FIX ?ME[\\s]*?:[\\s]*(?P<fixme>.*)$",
+		"TODO": "TODO[\\s]*?:[\\s]*(?P<todo>.*)$",
+		"TEST": "TEST[\\s]*?:[\\s]*(?P<test>.*)$",
+		"NOTE": "NOTE[\\s]*?:[\\s]*(?P<note>.*)$",
+		"CODE": "CODE[\\s]*?:[\\s]*(?P<code>.*)$",
+	},
+	"patterns_weight": {
+		"CRIT": 1,
+		"IMPO": 2,
+		"TODO": 4,
+		"FIXME": 5,
+		"TEST": 7,
+		"NOTE": 8,
+		"CODE": 9,
+	},
+	"exclude_folders": [
+		"*.git*"
+	],
+	"exclude_files": [
+		"*.sublime-workspace",
+		"*.sublime-project"
+	],
+	"case_sensitive": false,
+	"render_include_folder": true,
+	"render_folder_depth": 1,
+	"render_maxspaces": 60,
+	"render_header_format": "%d - %c files in %t secs",
+	"render_header_date": "%A %m/%d/%y at %I:%M%p",
+	"navigation_forward_skip" : 10,
+	"navigation_backward_skip" : 10,
+}

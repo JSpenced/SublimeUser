@@ -1,0 +1,16 @@
+Package*.last-run
+Package*.ca-list
+Package*.ca-bundle
+Package*.system-ca-bundle
+Package*.merged-ca-bundle
+Package*.user-ca-bundle
+oscrypto*.crt
+Package*.cache/
+Package*.ca-certs/
+FileHistory_*.json
+FileHistory.json
+ChangeList.json
+memTask.json
+*.json*
+*.json
+*.history

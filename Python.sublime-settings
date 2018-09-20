@@ -1,0 +1,21 @@
+{
+  "line_numbers": true,
+  "path": "/Users/bigtyme/anaconda/envs/py2k/bin/",
+  "cmd": ["python", "-u", "$file"],
+  "env":
+    {
+    "PYTHONPATH": "/Users/bigtyme/Dropbox/Research/Code/Model/",
+    },
+  "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+  "color_scheme": "Packages/User/SublimeLinter/Flatland Monokai (SL).tmTheme",
+  // "color_scheme": "Packages/User/SublimeLinter/Flatland Monokai LaTeX (SL).tmTheme",
+  "selector": "source.python",
+  // "caret_style": "wide",
+  "caret_extra_top": 2,
+  "caret_extra_bottom": 2,
+  "tab_size": 4,
+  "draw_white_space": "selection",
+  "translate_tabs_to_spaces": true,
+  "detect_indentation": true,
+  "use_tab_stops": true,
+  }
