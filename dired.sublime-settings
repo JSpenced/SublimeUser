@@ -28,15 +28,20 @@
 	"dired_hijack_new_window": false,
 	"dired_jump_points":
 	{
+		"Courses": "/Users/bigtyme/Downloads/machine-learning/fastai/courses/",
+		"Cover Letters": "/Users/bigtyme/Dropbox/Documents/JobApps/Cover Letters/",
 		"Downloads": "/Users/bigtyme/Downloads/",
 		"Drop Programs": "/Users/bigtyme/Dropbox/Programs/",
 		"Export Pictures": "/Users/bigtyme/Pictures/ExportPics/",
-		"Korea Dele": "/Users/bigtyme/Documents/To_Delete/K/",
+		"Machine Learning": "/Users/bigtyme/Downloads/machine-learning/",
+		"Resume": "/Users/bigtyme/Dropbox/Documents/JobApps/Resume/",
 		"SublPackages": "/Users/bigtyme/Library/Application Support/Sublime Text 3/Packages/",
 		"SublUser": "/Users/bigtyme/Library/Application Support/Sublime Text 3/Packages/User/",
+		"System Scripts": "/Users/bigtyme/Dropbox/Programs/system-scripts/",
 		"Todo.txt": "/Users/bigtyme/Dropbox/Apps/Simpletask/",
 		"Torrents": "/Users/bigtyme/Downloads/FinishedTor/",
-		"Volumes": "/Volumes/"
+		"Volumes": "/Volumes/",
+		"ml1": "/Users/bigtyme/Downloads/machine-learning/fastai/courses/ml1/"
 	},
 	"dired_open_on_jump": "left",
 	"dired_reuse_view": true,

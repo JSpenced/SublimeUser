@@ -11,6 +11,8 @@ FileHistory_*.json
 FileHistory.json
 ChangeList.json
 memTask.json
+sublemacspro_isearch_history.sublime-settings
+*isearch_history*
 *.json*
 *.json
 *.history

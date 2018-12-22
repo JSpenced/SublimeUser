@@ -70,7 +70,8 @@
     ]
   },
   { "keys": ["super+shift+enter"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Add Line Before.sublime-macro"} },
-  { "keys": ["super+alt+enter"], "command": "max_pane"},
+  { "keys": ["super+alt+ctrl+enter"], "command": "max_pane"},
+  { "keys": ["super+alt+ctrl+'"], "command": "max_pane"},
   { "keys": ["ctrl+j"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Add Line in Braces.sublime-macro"}, "context":
     [
       { "key": "setting.auto_indent", "operator": "equal", "operand": true },
@@ -334,7 +335,7 @@
       ] }
       },
       {
-        "keys": ["ctrl+;", ";"],
+        "keys": ["ctrl+;", "'"],
   "command": "chain",
   // "context": [ { "key": "selection_empty", "operator": "equal", "operand": true } ],
   "args": {
@@ -955,11 +956,11 @@
  ] },
   // Keybindings for ace jump
           {
-          "keys": ["super+alt+shift+;"],
+          "keys": ["super+alt+shift+'"],
           "command": "ace_jump_word"
           },
           {
-          "keys": ["super+alt+shift+'"],
+          "keys": ["super+alt+shift+;"],
           "command": "ace_jump_char"
           },
           {
@@ -967,11 +968,11 @@
           "command": "ace_jump_line"
           },
           {
-          "keys": ["super+shift+;"],
+          "keys": ["super+shift+'"],
           "command": "ace_jump_word", "args": {"current_buffer_only": true },
           },
           {
-          "keys": ["super+shift+'"],
+          "keys": ["super+shift+;"],
           "command": "ace_jump_char", "args": {"current_buffer_only": true },
           },
           {
