@@ -16,3 +16,4 @@ sublemacspro_isearch_history.sublime-settings
 *.json*
 *.json
 *.history
+*isearch_history.sublime-settings
