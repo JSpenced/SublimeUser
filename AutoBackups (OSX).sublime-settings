@@ -23,7 +23,7 @@
 	"max_backup_file_size_bytes": 262144, // = 256 KB
 
 	// Files older than X days will be deleted. If 0 - auto delete disabled
-	"delete_old_backups": 90, // days to delete
+	"delete_old_backups": 180, // days to delete
 
 	// ignore files/folders which match regexes
 	"ignore_regexes": [
